@@ -2,9 +2,9 @@
 import HelloWorld from './components/HelloWorld.vue'
 import { invoke } from '@tauri-apps/api'
 
-document.addEventListener('DOMContentLoaded', () => {
-  invoke('close_splashscreen')
-})
+// document.addEventListener('DOMContentLoaded', () => {
+//   invoke('close_splashscreen')
+// })
 </script>
 
 <template>

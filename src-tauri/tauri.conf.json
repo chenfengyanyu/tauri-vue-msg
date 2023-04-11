@@ -29,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.jartto.dev",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -60,14 +60,7 @@
         "resizable": true,
         "title": "Tauri App",
         "width": 800,
-        "visible": false
-      },
-      {
-        "width": 400,
-        "height": 200,
-        "decorations": false,
-        "url": "splashscreen.html",
-        "label": "splashscreen"
+        "visible": true
       }
     ]
   }
